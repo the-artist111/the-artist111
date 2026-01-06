@@ -21,10 +21,10 @@
 - Basic Network Pentesting
 
 ### 🧰 Tools
-- Burp Suite (Proxy, Repeater, Intruder)
+- Burp Suite 
 - Nmap, Gobuster
-- Metasploit (working knowledge)
-- Linux (CLI, Bash basics)
+- Metasploit 
+- Linux 
 
 ### 💻 Programming
 - Python (custom security scripts & tool modification)
