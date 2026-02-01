@@ -112,6 +112,8 @@
 -Publishing technical write-ups and tooling on GitHub
 
 -Preparing for remote junior penetration testing / offensive security roles
+
+
 ---
 
 ## ⚠️ Disclaimer
