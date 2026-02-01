@@ -69,7 +69,7 @@
 
 -httpx (service validation & tech fingerprinting)
 
-s-ubfinder / assetfinder (subdomain enumeration – scope aware)
+-subfinder / assetfinder (subdomain enumeration – scope aware)
 
 🖥️ Linux & Windows Post-Exploitation
 
