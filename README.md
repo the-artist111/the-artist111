@@ -1,22 +1,25 @@
 
 
-## 👋 Hi, I'm the-artist
+## # 👋 Hi, I'm the-artist
 
-**Independent Security Engineer** | Web & API Security | Autonomous Vulnerability Research
+**Independent Security Engineer | Offensive & Defensive Security | Web & API Security | Security Automation**
 
-🎯 Focused on Web, API, Network Security & Automated Exploitation Pipelines  
-🌍 Self-directed | Research-driven | Offensive and defensive mindset
+I research, build, and automate security workflows across **offensive security, defensive engineering, and vulnerability research**.
 
----
+### 🛡️ Security Focus
 
-## 🧠 What I Do
+- **Offensive Security:** Web & API penetration testing, vulnerability research, adversary emulation, attack-path analysis
+- **Defensive Security:** Threat intelligence, vulnerability correlation, security hardening, detection-oriented analysis
+- **Security Engineering:** Python/Bash automation, security tooling, MCP integrations, Docker-based security infrastructure
+- **Research:** Authentication & authorization flaws, business logic vulnerabilities, injection, misconfigurations, privilege escalation, and emerging CVEs
 
-I build and operate autonomous offensive and defensive  security infrastructure that bridges manual expertise with intelligent automation.
+### 🧠 What I Build
 
-My work spans structured penetration testing, custom tooling development, and real-time threat intelligence integration — identifying authorization flaws, logic abuse, misconfigurations, and privilege escalation paths with precision.
+I build security tooling that connects **offensive research with defensive security engineering** — helping automate reconnaissance, vulnerability analysis, threat intelligence, attack-path research, and security assessment workflows.
 
-I produce clear, reproducible findings with impact-driven explanations.
+My current flagship project is **NeuralReaper**, an AI-native security platform integrating **55+ MCP security tools**, threat intelligence, automated security workflows, and adversary-emulation capabilities.
 
+I focus on making security research **repeatable, evidence-driven, and actionable** — from discovering how an attack works to understanding how it can be detected and mitigated.
 ---
 
 ## 🛠 Technical Skills
