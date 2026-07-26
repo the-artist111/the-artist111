@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm the-artist
 
-**Offensive Security Engineer** | Web & API Security | Autonomous Vulnerability Research
+**Independent Security Engineer** | Web & API Security | Autonomous Vulnerability Research
 
 🎯 Focused on Web, API, Network Security & Automated Exploitation Pipelines  
 🌍 Self-directed | Research-driven | Offensive mindset
@@ -11,7 +11,7 @@
 
 ## 🧠 What I Do
 
-I build and operate autonomous offensive security infrastructure that bridges manual expertise with intelligent automation.
+I build and operate autonomous offensive and defensuve  security infrastructure that bridges manual expertise with intelligent automation.
 
 My work spans structured penetration testing, custom tooling development, and real-time threat intelligence integration — identifying authorization flaws, logic abuse, misconfigurations, and privilege escalation paths with precision.
 
