@@ -11,7 +11,7 @@
 
 ## 🧠 What I Do
 
-I build and operate autonomous offensive and defensuve  security infrastructure that bridges manual expertise with intelligent automation.
+I build and operate autonomous offensive and defensive  security infrastructure that bridges manual expertise with intelligent automation.
 
 My work spans structured penetration testing, custom tooling development, and real-time threat intelligence integration — identifying authorization flaws, logic abuse, misconfigurations, and privilege escalation paths with precision.
 
