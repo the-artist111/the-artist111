@@ -5,7 +5,7 @@
 **Independent Security Engineer** | Web & API Security | Autonomous Vulnerability Research
 
 🎯 Focused on Web, API, Network Security & Automated Exploitation Pipelines  
-🌍 Self-directed | Research-driven | Offensive mindset
+🌍 Self-directed | Research-driven | Offensive and defensive mindset
 
 ---
 
